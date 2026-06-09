@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-namespace Produto.Controllers 
+namespace Produtos.Controllers 
 {
     public class ProdutoController : Controller
     {
